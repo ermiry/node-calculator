@@ -1,0 +1,23 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Sample Calculator",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ermiry/node-calculator.git"
+  },
+  "author": "Erick Salas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ermiry/node-calculator/issues"
+  },
+  "homepage": "https://github.com/ermiry/node-calculator#readme",
+  "dependencies": {
+    "@ermiry/calculator": "^1.0.0"
+  }
+}
